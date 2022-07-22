@@ -1,0 +1,8 @@
+aiohttp
+aiosql
+aiosqlite
+black
+geopy
+pytelegrambotapi
+quart
+tekore
